@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<AppUser> signInManager;
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -25,8 +28,16 @@
                     <a class="header__link" href="">Регистрация школы</a>
                     <a class="header__link" href="">Возможности</a>
                     <a class="header__link" href="">Информация</a>
-                    <a class="button blue font__whitesmoke"
-                       href="~/home/login">Войти</a>
+                    <div class="reg&log">
+                        @if (signInManager.IsSignedIn(User))
+                        {
+                            <a asp-action="Logout" asp-controller="Account" class="button blue font__whitesmoke">Выйти</a>
+                        }
+                        else
+                        {
+                            <a asp-action="Login" class="button blue font__whitesmoke">Войти</a>
+                        }
+                    </div>
                 </div>
             </div>
         </nav>

@@ -12,59 +12,79 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="~/css/main.css" />
 		<link rel="stylesheet" href="~/css/css-registration.css" />
+        <link href="~/css/registration.css" rel="stylesheet" />
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<link
 			href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
 			rel="stylesheet"
 		/>
-		<title>Регистрация</title>
-	</head>
+        </head>
+    <body>
+	<section class="vh-100 bg-image regisrtation_page">
+  <div class="mask d-flex align-items-center h-100 gradient-custom-3">
+    <div class="container h-100">
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col-12 col-md-9 col-lg-7 col-xl-6">
+          <div class="card" style="border-radius: 15px;">
+            <div class="card-body p-5">
+              <h2 class="text-uppercase text-center mb-5">Регистрация</h2>
 
-	<body>
-		<head>
-		</head>
-		<main class="centrier__main">
-			
-				<div class="registration__panel">
-					<div class="registration__window">
-						<div class="div-ctrl-input">
-							<form asp-action="Registration" method="post">
-								<div asp-validation-summary="ModelOnly" class="text-danger"></div>
-								<div>
-                            <input asp-for="Name" placeholder="Логин" class="login__id vw-35 ctrl-input" />
-							<span asp-validation-for="Name"></span>
-								</div>
-								<div>
-                            <input asp-for="Email" placeholder="E-mail" class="email__id vw-35 ctrl-input" />
-							<span asp-validation-for="Email"></span>
-								</div>
-								<div>
-                            <input asp-for="Password" placeholder="Пароль" class="restore__password__id vw-35 ctrl-input" />
-							<span asp-validation-for="Password"></span>
-								</div>
-								<div>
-							<input asp-for="ConfirmPassword" placeholder="Подтвердите пароль" class="restore__password__id vw-35 ctrl-input" />
-							<span asp-validation-for="ConfirmPassword"></span>
-								</div>
-								<div>
-							<textarea asp-for="Adress" placeholder="Адрес" class="restore__password__id vw-35 ctrl-input" rows="2" /></textarea>
-							<span asp-validation-for="Adress"></span>
-								</div>
-						<div class="button-registrat">
-                            <a asp-action="Login" class="helpers button blue font__whitesmoke">Есть аккаунт?</a>
-                            <input type="submit" class="go__reg button blue font__whitesmoke">
-                        </div>
-							</form>
-						</div>
-						
-					</div>
-				</div>
-			
-		</main>
-				<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+              <form asp-action="Registration" method="post">
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div data-mdb-input-init class="form-outline mb-4">
+                  <input asp-for="Name" id="form3Example1cg" class="form-control form-control-lg" />
+                  <label asp-for="Name" class="form-label" for="form3Example1cg">Имя</label>
+                  <span asp-validation-for="Name"></span>
+                </div>
+
+                <div data-mdb-input-init class="form-outline mb-4">
+                  <input asp-for="Email" id="form3Example3cg" class="form-control form-control-lg" />
+                  <label asp-for="Email" class="form-label" for="form3Example3cg">Email</label>
+                  <span asp-validation-for="Email"></span>
+                </div>
+
+                <div data-mdb-input-init class="form-outline mb-4">
+                  <input asp-for="Password" id="form3Example4cg" class="form-control form-control-lg" />
+                  <label asp-for="Password" class="form-label" for="form3Example4cg">Пароль</label>
+                  <span asp-validation-for="Password"></span>
+                </div>
+
+                <div data-mdb-input-init class="form-outline mb-4">
+                  <input asp-for="ConfirmPassword" id="form3Example4cdg" class="form-control form-control-lg" />
+                  <label asp-for="ConfirmPassword" class="form-label" for="form3Example4cdg">Подтвердите пароль</label>
+                  <span asp-validation-for="ConfirmPassword"></span>
+                </div>
+
+                <div class="form-check d-flex justify-content-center mb-5">
+                  <input class="form-check-input me-2" type="checkbox" value="" id="form2Example3cg" />
+                  <label class="form-check-label" for="form2Example3g">
+                    Я соглашаюсь с <a href="#!" class="text-body"><u>Правилами использования</u></a>
+                  </label>
+                </div>
+
+                <div class="d-flex justify-content-center">
+                  <input type="submit"
+                    data-mdb-button-init data-mdb-ripple-init class="btn btn-success btn-block btn-lg gradient-custom-4 text-body">
+                </div>
+
+                <p class="text-center text-muted mt-5 mb-0">Уже есть аккаунт? 
+                    <a asp-action="Login"
+                    class="fw-bold text-body"><u>Войти сейчас</u></a></p>
+
+              </form>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+        <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js"></script>
 		<script>$(".phone").mask("9(999)999-9999");</script>
+
 	</body>
 </html>
 

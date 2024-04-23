@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Diary.csproj": {}
+    "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Diary.csproj": {
+    "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Diary.csproj",
+        "projectUniqueName": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
         "projectName": "Diary",
-        "projectPath": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Diary.csproj",
+        "projectPath": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
         "packagesPath": "C:\\Users\\Daniil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\obj\\",
+        "outputPath": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniil\\AppData\\Roaming\\NuGet\\NuGet.Config",

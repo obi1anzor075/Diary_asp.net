@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2L1V31ps24HzdNhS4RQ1pcqQCXu79FmYgVl4aQXb0MT1BvW27MG7KCZh8XMpGcyLthAIxF1EyS1AVovAZ1encg==",
+  "dgSpecHash": "7CSw1CMLUrJc8V37vgcSjn76MIK7me7bJ3JDOIycw3Ik+xp5J/lShsIbbmf2w1CNpABL7R/wbS9MpVCI9CXWjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Diary.csproj",
+  "projectFilePath": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniil\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Daniil\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

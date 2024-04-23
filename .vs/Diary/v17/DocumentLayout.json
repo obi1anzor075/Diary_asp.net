@@ -1,58 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp\\diary\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\wwwroot\\css\\registration.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\wwwroot\\css\\registration.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp\\diary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp\\diary\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp\\diary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp\\diary\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp\\diary\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp\\diary\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\wwwroot\\css\\registration.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\wwwroot\\css\\registration.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\diary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\diary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp\\diary\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp\\diary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Migrations\\20240422194634_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Diary\\Migrations\\20240422194634_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp\\diary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp\\diary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp\\diary\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|c:\\users\\daniil\\documents\\github\\diary_asp.net\\diary\\migrations\\20240422194634_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\migrations\\20240422194634_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,26 +82,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "registration.css",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\wwwroot\\css\\registration.css",
+              "RelativeDocumentMoniker": "Diary\\wwwroot\\css\\registration.css",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\wwwroot\\css\\registration.css",
+              "RelativeToolTip": "Diary\\wwwroot\\css\\registration.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-23T13:04:55.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "registration.css",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\wwwroot\\css\\registration.css",
+              "RelativeDocumentMoniker": "Diary\\wwwroot\\css\\registration.css",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\wwwroot\\css\\registration.css",
+              "RelativeToolTip": "Diary\\wwwroot\\css\\registration.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-23T13:00:54.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Diary",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
+              "RelativeDocumentMoniker": "Diary\\Diary.csproj",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
+              "RelativeToolTip": "Diary\\Diary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T12:57:59.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Diary\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Diary\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAOAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-23T06:00:09.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Diary\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "Diary\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-23T05:48:45.026Z",
               "EditorCaption": ""
@@ -98,144 +149,136 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Diary\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Diary\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwAcAAAAPAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T05:20:53.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Views\\Account\\login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Views\\Account\\login.cshtml",
               "RelativeDocumentMoniker": "Diary\\Views\\Account\\login.cshtml",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Views\\Account\\login.cshtml",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Views\\Account\\login.cshtml",
               "RelativeToolTip": "Diary\\Views\\Account\\login.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T04:53:16.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:53:16.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "registration.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Views\\Account\\registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Views\\Account\\registration.cshtml",
               "RelativeDocumentMoniker": "Diary\\Views\\Account\\registration.cshtml",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Views\\Account\\registration.cshtml",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Views\\Account\\registration.cshtml",
               "RelativeToolTip": "Diary\\Views\\Account\\registration.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAABeAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-23T04:52:26.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Diary\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Diary\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwE8AAAAyAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwEwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T04:49:12.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\ViewModels\\RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\ViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "Diary\\ViewModels\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\ViewModels\\RegisterVM.cs",
               "RelativeToolTip": "Diary\\ViewModels\\RegisterVM.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAWwBEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:42:23.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\ViewModels\\LoginVM.cs",
-              "RelativeDocumentMoniker": "Diary\\ViewModels\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\ViewModels\\LoginVM.cs",
-              "RelativeToolTip": "Diary\\ViewModels\\LoginVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:41:56.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20240422194634_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Migrations\\20240422194634_Initial.cs",
-              "RelativeDocumentMoniker": "Diary\\Migrations\\20240422194634_Initial.cs",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Migrations\\20240422194634_Initial.cs",
-              "RelativeToolTip": "Diary\\Migrations\\20240422194634_Initial.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T19:46:34.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:42:23.529Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Program.cs",
-              "RelativeDocumentMoniker": "Diary\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Program.cs",
-              "RelativeToolTip": "Diary\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Diary\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "Diary\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T19:36:57.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:41:56.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\appsettings.json",
-              "RelativeDocumentMoniker": "Diary\\appsettings.json",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\appsettings.json",
-              "RelativeToolTip": "Diary\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-22T19:34:41.819Z",
-              "EditorCaption": ""
+              "DocumentIndex": 15,
+              "Title": "20240422194634_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Migrations\\20240422194634_Initial.cs",
+              "RelativeDocumentMoniker": "Diary\\Migrations\\20240422194634_Initial.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Migrations\\20240422194634_Initial.cs",
+              "RelativeToolTip": "Diary\\Migrations\\20240422194634_Initial.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:46:34.333Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Diary\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Models\\AppUser.cs",
-              "RelativeToolTip": "Diary\\Models\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Program.cs",
+              "RelativeDocumentMoniker": "Diary\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Program.cs",
+              "RelativeToolTip": "Diary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T19:32:31.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T19:36:57.66Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\appsettings.json",
+              "RelativeDocumentMoniker": "Diary\\appsettings.json",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\appsettings.json",
+              "RelativeToolTip": "Diary\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T19:34:41.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Diary\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Models\\AppUser.cs",
+              "RelativeToolTip": "Diary\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:32:31.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Diary\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp\\Diary\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Diary\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T19:29:55.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T19:29:55.162Z"
             }
           ]
         }

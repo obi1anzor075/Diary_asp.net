@@ -17,6 +17,7 @@ namespace Diary.Controllers
             this.userManager = userManager;
 
         }
+
         public IActionResult Login()
         {
             return View();
