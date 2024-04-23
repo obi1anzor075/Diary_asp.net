@@ -33,39 +33,41 @@
               <form asp-action="Registration" method="post">
                                     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div data-mdb-input-init class="form-outline mb-4">
-                  <input asp-for="Name" id="form3Example1cg" class="form-control form-control-lg" />
                   <label asp-for="Name" class="form-label" for="form3Example1cg">Имя</label>
-                  <span asp-validation-for="Name"></span>
+                  <input asp-for="Name" id="form3Example1cg" class="form-control form-control-lg" />
+                  <span asp-validation-for="Name" class="text-danger"></span>
                 </div>
 
                 <div data-mdb-input-init class="form-outline mb-4">
-                  <input asp-for="Email" id="form3Example3cg" class="form-control form-control-lg" />
                   <label asp-for="Email" class="form-label" for="form3Example3cg">Email</label>
-                  <span asp-validation-for="Email"></span>
+                  <input asp-for="Email" id="form3Example3cg" class="form-control form-control-lg" />
+                  <span asp-validation-for="Email" class="text-danger" ></span>
                 </div>
 
                 <div data-mdb-input-init class="form-outline mb-4">
-                  <input asp-for="Password" id="form3Example4cg" class="form-control form-control-lg" />
                   <label asp-for="Password" class="form-label" for="form3Example4cg">Пароль</label>
-                  <span asp-validation-for="Password"></span>
+                  <input asp-for="Password" id="form3Example4cg" class="form-control form-control-lg" />
+                  <span asp-validation-for="Password" class="text-danger"></span>
                 </div>
 
                 <div data-mdb-input-init class="form-outline mb-4">
-                  <input asp-for="ConfirmPassword" id="form3Example4cdg" class="form-control form-control-lg" />
                   <label asp-for="ConfirmPassword" class="form-label" for="form3Example4cdg">Подтвердите пароль</label>
-                  <span asp-validation-for="ConfirmPassword"></span>
+                  <input asp-for="ConfirmPassword" id="form3Example4cdg" class="form-control form-control-lg" />
+                  <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
                 </div>
 
                 <div class="form-check d-flex justify-content-center mb-5">
-                  <input class="form-check-input me-2" type="checkbox" value="" id="form2Example3cg" />
+                  <input type="checkbox" id="TermOfService" name="TermOfService" class="form-check-input me-2" type="checkbox" value="null" id="form2Example3cg" />
                   <label class="form-check-label" for="form2Example3g">
                     Я соглашаюсь с <a href="#!" class="text-body"><u>Правилами использования</u></a>
                   </label>
+                  <br />
+                  <span asp-validation-for="TermOfService" class="text-danger"></span>
                 </div>
 
                 <div class="d-flex justify-content-center">
-                  <input type="submit"
-                    data-mdb-button-init data-mdb-ripple-init class="btn btn-success btn-block btn-lg gradient-custom-4 text-body">
+                  <input type="submit" value="Регистрация"
+                    data-mdb-button-init data-mdb-ripple-init class="button blue font__whitesmoke button-reg">
                 </div>
 
                 <p class="text-center text-muted mt-5 mb-0">Уже есть аккаунт? 

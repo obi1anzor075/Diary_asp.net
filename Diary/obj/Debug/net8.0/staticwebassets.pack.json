@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\img\\img-diary-background.png"
     },
     {
+      "Id": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\wwwroot\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\logo.svg"
+    },
+    {
       "Id": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\wwwroot\\img\\registration&login\\signin-image.jpg",
       "PackagePath": "staticwebassets\\img\\registration&login\\signin-image.jpg"
     },

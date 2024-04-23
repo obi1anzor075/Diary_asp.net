@@ -56,7 +56,7 @@ namespace Diary.Controllers
                     Name = model.Name,
                     UserName = model.Email,
                     Email = model.Email,
-                    Adress = model.Adress
+                    Adress = model.Adress,
                 };
 
                 var result = await userManager.CreateAsync(user, model.Password!);

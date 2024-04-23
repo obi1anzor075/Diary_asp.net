@@ -17,7 +17,12 @@
 }
 
 .regisrtation_page {
-    width: clamp(1150px,80%,1600px);
-    background-image:url('~/img/img-diary-background.png');
-    background-size:1000px;
+    width: 100vw;
+
+}
+
+.gradient-custom-3{
+        background-image:url("/img/img-diary-background.png");
+        background-repeat:no-repeat;
+        background-position: center center;
 }

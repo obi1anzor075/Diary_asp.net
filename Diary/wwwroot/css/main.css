@@ -60,12 +60,19 @@ a{
 
 .logo__name {
     display: flex;
+    align-items:center;
     gap: 5px;
     margin: 5px;
 }
 
+.logo__name > img{
+    width:64px;
+}
+
 .site-name{
-    color: black;
+    font-weight:700;
+    font-size:18px;
+    color: #2c6ab1;
 }
 
 .menu__layout {
@@ -105,6 +112,7 @@ a{
     padding: 10px 21px 11px 21px;
     line-height: 13px;
     align-items: center;
+    justify-content:center;
     text-decoration: none;
     width: fit-content;
   }
@@ -112,6 +120,7 @@ a{
   .button:hover{
     filter:brightness(0.90)
 }
+
 
 /* Main */
 main{

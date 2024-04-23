@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PhX22cCRKyMG3+0Elbfn7SqvfOJXPPST+lN1IfWqliI=",
+  "Hash": "yrPPlkt8huO5Oky/tGJlSc5+wm6+Yo1MGySLRg5lBcg=",
   "Source": "Diary",
   "BasePath": "_content/Diary",
   "Mode": "Default",
@@ -205,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\img-diary-background.png"
+    },
+    {
+      "Identity": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\wwwroot\\img\\logo.svg",
+      "SourceId": "Diary",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\wwwroot\\",
+      "BasePath": "_content/Diary",
+      "RelativePath": "img/logo.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo.svg"
     },
     {
       "Identity": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\wwwroot\\img\\Rectangle.png",
