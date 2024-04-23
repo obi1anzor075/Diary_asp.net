@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Diary</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/main.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/privacy.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Diary.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <a href="~/home">
+                    <div class="logo__name">
+                        <img src="#" alt="logo" />
+                        <div class="site-name">Diary</div>
+                    </div>
+                </a>
+
+                <div class="menu__layout">
+                    <a class="header__link" href="">Статистика</a>
+                    <a class="header__link" href="">Регистрация школы</a>
+                    <a class="header__link" href="">Возможности</a>
+                    <a class="header__link" href="">Информация</a>
+                    <a class="button blue font__whitesmoke"
+                       href="~/home/login">Войти</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="links">
+                <a class="about" href="#">О проекте</a>
+                <a class="contacts" href="~/home/contacts">Контакты</a>
+                <a class="support" href="#">Поддержка: +7 (900) 319-4051</a>
+                <a class="privacy-policy" href="~/home/privacy_policy">Политика конфиденциальности</a>
+            </div>
+            <div class="footer__copyright">© 2024</div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

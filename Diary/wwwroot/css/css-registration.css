@@ -1,0 +1,49 @@
+/* begin main */
+.centrier__main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.registration__panel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.registration__window {
+display: flex;
+flex-direction: column;
+}
+
+.button-registrat {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+.div-ctrl-input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.vw-35 {
+  width: 35vw;
+  padding-left: 10px;
+}
+
+.ctrl-input {
+  margin-bottom: 10px;
+  border-radius: 25px;
+  border: 2px wheat solid;
+  font-size: 20px;
+}
+
+.ctrl-input:hover {
+  border: 2px rgb(228, 193, 127) solid;
+  background-color: whitesmoke;
+}
+
+/* end main */
+

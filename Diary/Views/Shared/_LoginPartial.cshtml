@@ -1,0 +1,32 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<AppUser> signInManager;
+
+<nav class="navbar">
+    <div class="container">
+        @if (signInManager.IsSignedIn(User))
+        {
+            
+        }
+        else
+        {
+            
+        }
+        <a href="~/home">
+            <div class="logo__name">
+                <img src="#" alt="logo" />
+                <div class="site-name">Diary</div>
+            </div>
+        </a>
+
+        <div class="menu__layout">
+            <a class="header__link" href="">Статистика</a>
+            <a class="header__link" href="">Регистрация школы</a>
+            <a class="header__link" href="">Возможности</a>
+            <a class="header__link" href="">Информация</a>
+            <a class="button blue font__whitesmoke"
+               href="~/home/login">Войти</a>
+        </div>
+    </div>
+</nav>
+
+

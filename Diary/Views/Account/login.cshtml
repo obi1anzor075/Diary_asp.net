@@ -1,0 +1,71 @@
+@using Diary.ViewModels;
+@model LoginVM;
+
+@{
+	ViewData["Title"] = "Вход";
+}
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="~/css/main.css" />
+		<link rel="stylesheet" href="~/css/css-registration.css" />
+    <link rel="stylesheet" href="~/css/css-login.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+			rel="stylesheet"
+		/>
+		<title>Вход</title>
+	</head>
+
+	<body>
+		<main class="centrier__main">
+				<div class="registration__panel">
+					<div class="registration__window">
+						<div class="div-ctrl-input">
+							<form asp-action="Login" method="post">
+								<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+								<div>
+								 <input asp-for="Username" placeholder="Имя пользователя" class="login tel__number vw-35 ctrl-input" />
+								 <span asp-validation-for="Username"></span>
+								</div>
+
+								<div>
+								 <input asp-for="Password" placeholder="Пароль" class="restore__password__id vw-35 ctrl-input" />
+								<span asp-validation-for="Password"></span>
+								</div>
+								<div class="form-check">
+									<label class="form-check-label">
+										<input asp-for="RememberMe" class="form-check-input" /> @Html.DisplayNameFor(a=>a.RememberMe)
+									</label>
+								</div>
+                        <div class="button-registrat">
+							<div>
+                                <a asp-action="Registration" class="helpers button blue font__whitesmoke">Регистрация</a>
+							</div>
+                            <div>
+                                <input type="submit" value="Вход" class="go__reg button blue font__whitesmoke">
+                            </div>
+                        </div>
+
+							</form>
+						</div>
+						
+					</div>
+				</div>
+		</main>
+				<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js"></script>
+		<script>$(".phone").mask("9(999)999-9999");</script>
+	</body>
+</html>
+
+@section Scripts{
+	@{
+	await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}
