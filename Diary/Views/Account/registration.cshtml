@@ -56,14 +56,14 @@
                 <div data-mdb-input-init class="form-outline mb-4">
                   <label asp-for="ConfirmPassword" class="form-label" for="form3Example4cdg">Подтвердите пароль</label>
                                         <div style="display:flex">
-                                            <input asp-for="Password" id="pass_log_id2" class="form-control form-control-lg" />
+                                            <input asp-for="ConfirmPassword" id="pass_log_id2" class="form-control form-control-lg" />
                                             <img src="~/img/eye.svg" style="cursor:pointer;width:32px" toggle="#password-field" class="fa fa-fw2 fa-eye2 field_icon toggle-password2">
                                         </div>
                   <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
                 </div>
 
                 <div class="form-check d-flex justify-content-center mb-5">
-                  <input type="checkbox" id="TermOfService" name="TermOfService" class="form-check-input me-2" type="checkbox" value="null" id="form2Example3cg" />
+                  <input type="checkbox" id="TermOfService" name="TermOfService" class="form-check-input me-2" type="checkbox" value="false" id="form2Example3cg" />
                   <label class="form-check-label" for="form2Example3g">
                     Я соглашаюсь с <a asp-action="Privacy_policy" class="text-body"><u>Политикой конфиденциальности</u></a>
                   </label>
