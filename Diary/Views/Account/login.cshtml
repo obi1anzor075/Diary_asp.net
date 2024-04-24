@@ -21,7 +21,7 @@
 	</head>
 
 	<body>
-    <section class="vh-100 bg-image login__page" style="widows=100vw">
+    <section class="vh-100 vw-100 bg-image login__page">
         <div class="mask d-flex align-items-center h-100 gradient-custom-3">
             <div class="container h-100">
                 <div class="row d-flex justify-content-center align-items-center h-100">
@@ -40,7 +40,11 @@
 
                                     <div data-mdb-input-init class="form-outline mb-4">
                                         <label asp-for="Password" class="form-label" for="form3Example4cg">Пароль</label>
-                                        <input asp-for="Password" id="form3Example4cg" class="form-control form-control-lg" />
+                                        <div style="display:flex">
+											<input asp-for="Password" id="pass_log_id" class="form-control form-control-lg" />
+											<img src="~/img/eye.svg" style="cursor:pointer;width:32px" toggle="#password-field" class="fa fa-fw fa-eye field_icon toggle-password">
+                                        </div>
+                                        
                                         <span asp-validation-for="Password" class="text-danger"></span>
                                     </div>
 
@@ -52,7 +56,7 @@
 
                                     <div class="d-flex justify-content-center">
                                         <input type="submit" value="Вход"
-                                               data-mdb-button-init data-mdb-ripple-init class="button blue font__whitesmoke button-reg">
+                                               data-mdb-button-init data-mdb-ripple-init class="button blue font__whitesmoke button-reg animation">
                                     </div>
 
                                     <p class="text-center text-muted mt-5 mb-0">
@@ -73,6 +77,7 @@
 				<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js"></script>
 		<script>$(".phone").mask("9(999)999-9999");</script>
+<script src="~/js/main.js"></script>
 	</body>
 </html>
 

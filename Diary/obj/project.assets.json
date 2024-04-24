@@ -4280,19 +4280,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Daniil\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
+      "projectUniqueName": "F:\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
       "projectName": "Diary",
-      "projectPath": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
-      "packagesPath": "C:\\Users\\Daniil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\obj\\",
+      "projectPath": "F:\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "F:\\GitHub\\Diary_asp.net\\Diary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Daniil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

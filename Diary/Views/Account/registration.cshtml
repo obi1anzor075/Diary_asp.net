@@ -46,20 +46,26 @@
 
                 <div data-mdb-input-init class="form-outline mb-4">
                   <label asp-for="Password" class="form-label" for="form3Example4cg">Пароль</label>
-                  <input asp-for="Password" id="form3Example4cg" class="form-control form-control-lg" />
+                                        <div style="display:flex">
+                                            <input asp-for="Password" id="pass_log_id" class="form-control form-control-lg" />
+                                            <img src="~/img/eye.svg" style="cursor:pointer;width:32px" toggle="#password-field" class="fa fa-fw fa-eye field_icon toggle-password">
+                                        </div>
                   <span asp-validation-for="Password" class="text-danger"></span>
                 </div>
 
                 <div data-mdb-input-init class="form-outline mb-4">
                   <label asp-for="ConfirmPassword" class="form-label" for="form3Example4cdg">Подтвердите пароль</label>
-                  <input asp-for="ConfirmPassword" id="form3Example4cdg" class="form-control form-control-lg" />
+                                        <div style="display:flex">
+                                            <input asp-for="Password" id="pass_log_id2" class="form-control form-control-lg" />
+                                            <img src="~/img/eye.svg" style="cursor:pointer;width:32px" toggle="#password-field" class="fa fa-fw2 fa-eye2 field_icon toggle-password2">
+                                        </div>
                   <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
                 </div>
 
                 <div class="form-check d-flex justify-content-center mb-5">
                   <input type="checkbox" id="TermOfService" name="TermOfService" class="form-check-input me-2" type="checkbox" value="null" id="form2Example3cg" />
                   <label class="form-check-label" for="form2Example3g">
-                    Я соглашаюсь с <a href="#!" class="text-body"><u>Правилами использования</u></a>
+                    Я соглашаюсь с <a asp-action="Privacy_policy" class="text-body"><u>Политикой конфиденциальности</u></a>
                   </label>
                   <br />
                   <span asp-validation-for="TermOfService" class="text-danger"></span>
@@ -67,7 +73,7 @@
 
                 <div class="d-flex justify-content-center">
                   <input type="submit" value="Регистрация"
-                    data-mdb-button-init data-mdb-ripple-init class="button blue font__whitesmoke button-reg">
+                    data-mdb-button-init data-mdb-ripple-init class="button blue font__whitesmoke button-reg animation">
                 </div>
 
                 <p class="text-center text-muted mt-5 mb-0">Уже есть аккаунт? 
@@ -86,7 +92,7 @@
         <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js"></script>
 		<script>$(".phone").mask("9(999)999-9999");</script>
-
+        <script src="~/js/main.js"></script>
 	</body>
 </html>
 

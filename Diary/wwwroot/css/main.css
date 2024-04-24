@@ -46,7 +46,7 @@ a{
 .navbar {
     display: flex;
     justify-content: center;
-    height: 50px;
+    height: 10%;
     /* background-color: whitesmoke; */
     padding-block:5px;
     
@@ -208,6 +208,63 @@ font-size: 14px;
 .df-column {
     display: flex;
     flex-direction: column;
+}
+
+
+/*Animtions*/
+.animation {
+    min-width: 300px;
+    min-height: 60px;
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 1.3px;
+    font-weight: 700;
+    color: #313133;
+    background: rgb(129,199,230);
+    background: linear-gradient(90deg, rgba(129,199,230,1) 0%, rgba(30,94,118,1) 100%);
+    border: none;
+    border-radius: 1000px;
+    box-shadow: 12px 12px 24px rgba(79,143,209,.64);
+    transition: all 0.3s ease-in-out 0s;
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    padding: 10px;
+}
+
+.animation::before {
+    content: '';
+    border-radius: 1000px;
+    min-width: calc(300px + 12px);
+    min-height: calc(60px + 12px);
+    border: 6px solid #00ecff;
+    box-shadow: 0 0 60px rgba(0,189,255,.64);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: all .3s ease-in-out 0s;
+}
+
+.animation:hover, .animation:focus {
+    color: #313133;
+    transform: translateY(-6px);
+}
+
+
+
+.animation::after {
+    content: '';
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    border: 6px solid #00ecff;
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 /* Media */

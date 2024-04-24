@@ -20,10 +20,7 @@ namespace Diary.Controllers
             return View();
         }
 
-        public IActionResult Privacy_policy()
-        {
-            return View();
-        }
+
 
         public IActionResult Contacts()
         {

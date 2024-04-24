@@ -9,7 +9,6 @@ namespace Diary.ViewModels
         public string? Name { get; set; }
 
         [Required(ErrorMessage = "Введите корректный адрес электронной почты")]
-        [EmailAddress(ErrorMessage = "Введите корректный адрес электронной почты")]
         [DataType(DataType.EmailAddress, ErrorMessage = "Введите корректный адрес электронной почты")] 
         public string? Email { get; set; }
 
