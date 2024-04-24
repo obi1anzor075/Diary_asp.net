@@ -62,8 +62,7 @@
               "RelativeToolTip": "Diary\\Views\\Account\\registration.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAowBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T04:52:26.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:52:26.193Z"
             },
             {
               "$type": "Document",
@@ -73,7 +72,7 @@
               "RelativeDocumentMoniker": "Diary\\Views\\Account\\login.cshtml",
               "ToolTip": "C:\\Users\\Daniil\\Documents\\GitHub\\Diary_asp.net\\Diary\\Views\\Account\\login.cshtml",
               "RelativeToolTip": "Diary\\Views\\Account\\login.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-23T04:53:16.151Z",
               "EditorCaption": ""
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Diary\\wwwroot\\css\\registration.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-24T05:39:58.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T05:39:58.501Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Diary\\Notes.txt",
               "ViewState": "AQIAABUAAAAAAAAAAAAgwEEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-24T05:30:58.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T05:30:58.779Z"
             },
             {
               "$type": "Document",
@@ -162,8 +159,7 @@
               "RelativeToolTip": "Diary\\ViewModels\\LoginVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:41:56.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:41:56.249Z"
             }
           ]
         }
