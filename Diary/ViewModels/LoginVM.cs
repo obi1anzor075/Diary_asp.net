@@ -4,7 +4,7 @@ namespace Diary.ViewModels
 {
     public class LoginVM
     {
-        [Required(ErrorMessage = "Введите имя пользователя.")]
+        [Required(ErrorMessage = "Введите почту.")]
         public string? Username { get; set; }
 
         [Required(ErrorMessage = "Введите пароль.")]

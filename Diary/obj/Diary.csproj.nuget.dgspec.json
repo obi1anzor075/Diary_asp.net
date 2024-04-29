@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj": {}
+    "C:\\Users\\W5\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj": {}
   },
   "projects": {
-    "F:\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj": {
+    "C:\\Users\\W5\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
+        "projectUniqueName": "C:\\Users\\W5\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
         "projectName": "Diary",
-        "projectPath": "F:\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHub\\Diary_asp.net\\Diary\\obj\\",
+        "projectPath": "C:\\Users\\W5\\Documents\\GitHub\\Diary_asp.net\\Diary\\Diary.csproj",
+        "packagesPath": "C:\\Users\\W5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W5\\Documents\\GitHub\\Diary_asp.net\\Diary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\W5\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -83,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

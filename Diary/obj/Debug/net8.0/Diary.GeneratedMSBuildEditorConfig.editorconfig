@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Diary
 build_property.RootNamespace = Diary
-build_property.ProjectDir = F:\GitHub\Diary_asp.net\Diary\
+build_property.ProjectDir = C:\Users\W5\Documents\GitHub\Diary_asp.net\Diary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\GitHub\Diary_asp.net\Diary
+build_property.MSBuildProjectDirectory = C:\Users\W5\Documents\GitHub\Diary_asp.net\Diary
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/GitHub/Diary_asp.net/Diary/Views/Account/login.cshtml]
+[C:/Users/W5/Documents/GitHub/Diary_asp.net/Diary/Views/Account/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxsb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/Diary_asp.net/Diary/Views/Account/privacy_policy.cshtml]
+[C:/Users/W5/Documents/GitHub/Diary_asp.net/Diary/Views/Account/privacy_policy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxwcml2YWN5X3BvbGljeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/Diary_asp.net/Diary/Views/Account/registration.cshtml]
+[C:/Users/W5/Documents/GitHub/Diary_asp.net/Diary/Views/Account/registration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxyZWdpc3RyYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/Diary_asp.net/Diary/Views/Home/contacts.cshtml]
+[C:/Users/W5/Documents/GitHub/Diary_asp.net/Diary/Views/Home/contacts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/Diary_asp.net/Diary/Views/Home/index.cshtml]
+[C:/Users/W5/Documents/GitHub/Diary_asp.net/Diary/Views/Home/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/Diary_asp.net/Diary/Views/Home/profile.cshtml]
+[C:/Users/W5/Documents/GitHub/Diary_asp.net/Diary/Views/Home/profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/Diary_asp.net/Diary/Views/Shared/Error.cshtml]
+[C:/Users/W5/Documents/GitHub/Diary_asp.net/Diary/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/Diary_asp.net/Diary/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/W5/Documents/GitHub/Diary_asp.net/Diary/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/Diary_asp.net/Diary/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/W5/Documents/GitHub/Diary_asp.net/Diary/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/Diary_asp.net/Diary/Views/_ViewImports.cshtml]
+[C:/Users/W5/Documents/GitHub/Diary_asp.net/Diary/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/Diary_asp.net/Diary/Views/_ViewStart.cshtml]
+[C:/Users/W5/Documents/GitHub/Diary_asp.net/Diary/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/Diary_asp.net/Diary/Views/Shared/_Layout.cshtml]
+[C:/Users/W5/Documents/GitHub/Diary_asp.net/Diary/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-btk64rqkmv
