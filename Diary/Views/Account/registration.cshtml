@@ -21,14 +21,14 @@
 		/>
         </head>
     <body>
-	<section class="vh-100 bg-image registration_page" id="transfer">
+    <section id ="transfer" class="vh-120 bg-image registration_page">
   <div class="mask d-flex align-items-center h-100 gradient-custom-3">
     <div class="container h-100">
       <div class="row d-flex justify-content-center align-items-center h-100">
-        <div class="col-12 col-md-9 col-lg-7 col-xl-6">
+                    <div class="col-12 col-md-9 col-lg-7 col-xl-6 target" onmouseover="goToId('transfer')">
           <div class="card" style="border-radius: 15px;">
             <div class="card-body p-5">
-              <h2 class="text-uppercase text-center mb-5">Регистрация</h2>
+              <h2 class="text-uppercase text-center mb-1rem">Регистрация</h2>
 
               <form asp-action="Registration" method="post">
                                     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
@@ -62,7 +62,7 @@
                   <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
                 </div>
 
-                <div class="form-check d-flex justify-content-center mb-5">
+                <div class="form-check d-flex justify-content-center mb-2rem">
                   <input type="checkbox" id="TermOfService" name="TermOfService" class="form-check-input me-2" type="checkbox" value="false" id="form2Example3cg" />
                   <label class="form-check-label" for="form2Example3g">
                     Я соглашаюсь с <a asp-action="Privacy_policy" class="text-body"><u>Политикой конфиденциальности</u></a>
@@ -76,7 +76,7 @@
                     data-mdb-button-init data-mdb-ripple-init class="button blue font__whitesmoke button-reg animation">
                 </div>
 
-                <p class="text-center text-muted mt-5 mb-0">Уже есть аккаунт? 
+                <p class="text-center text-muted mt-2rem mb-0">Уже есть аккаунт? 
                     <a asp-action="Login"
                     class="fw-bold text-body"><u>Войти сейчас</u></a></p>
 
@@ -93,6 +93,12 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js"></script>
 		<script>$(".phone").mask("9(999)999-9999");</script>
         <script src="~/js/main.js"></script>
+    <script>
+        // Функция для перехода к id
+        function goToId(id) {
+            location.href = '#' + id;
+        }
+    </script>
 	</body>
 </html>
 

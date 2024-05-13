@@ -45,5 +45,21 @@ justify-content: space-between;
   background-color: whitesmoke;
 }
 
+.vh-120 {
+    min-height: 101vh !important;
+}
+
+.mb-1rem {
+    margin-bottom: 1rem !important;
+}
+
+.mt-2rem {
+    margin-top: 2rem !important;
+}
+
+.mb-2rem {
+    margin-bottom: 2rem !important;
+}
+
 /* end main */
 
