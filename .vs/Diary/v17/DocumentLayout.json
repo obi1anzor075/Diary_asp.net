@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\Diary_asp.net\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|e:\\diary_asp.net\\diary\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|e:\\diary_asp.net\\diary\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|e:\\diary_asp.net\\diary\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\account\\privacy_policy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|e:\\diary_asp.net\\diary\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|e:\\diary_asp.net\\diary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|e:\\diary_asp.net\\diary\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|solutionrelative:diary\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7072CCD4-D30A-4D57-A43C-4DFBB38D6DAB}|Diary\\Diary.csproj|e:\\diary_asp.net\\diary\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -85,8 +85,12 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "index.cshtml",
               "DocumentMoniker": "E:\\Diary_asp.net\\Diary\\Views\\Home\\index.cshtml",
               "RelativeDocumentMoniker": "Diary\\Views\\Home\\index.cshtml",
@@ -94,8 +98,7 @@
               "RelativeToolTip": "Diary\\Views\\Home\\index.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T18:50:38.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T18:50:38.991Z"
             },
             {
               "$type": "Document",
@@ -111,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "privacy_policy.cshtml",
               "DocumentMoniker": "E:\\Diary_asp.net\\Diary\\Views\\Account\\privacy_policy.cshtml",
               "RelativeDocumentMoniker": "Diary\\Views\\Account\\privacy_policy.cshtml",
@@ -119,8 +122,7 @@
               "RelativeToolTip": "Diary\\Views\\Account\\privacy_policy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T07:44:03.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T07:44:03.524Z"
             },
             {
               "$type": "Document",
@@ -136,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "E:\\Diary_asp.net\\Diary\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Diary\\Views\\Shared\\_LoginPartial.cshtml",
@@ -149,20 +151,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "login.cshtml",
               "DocumentMoniker": "E:\\Diary_asp.net\\Diary\\Views\\Account\\login.cshtml",
               "RelativeDocumentMoniker": "Diary\\Views\\Account\\login.cshtml",
               "ToolTip": "E:\\Diary_asp.net\\Diary\\Views\\Account\\login.cshtml",
               "RelativeToolTip": "Diary\\Views\\Account\\login.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAXAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-23T04:53:16.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "registration.cshtml",
               "DocumentMoniker": "E:\\Diary_asp.net\\Diary\\Views\\Account\\registration.cshtml",
               "RelativeDocumentMoniker": "Diary\\Views\\Account\\registration.cshtml",
@@ -183,12 +185,7 @@
               "RelativeToolTip": "Diary\\Views\\Home\\contacts.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T19:04:40.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-05-13T19:04:40.913Z"
             },
             {
               "$type": "Document",
@@ -224,8 +221,7 @@
               "RelativeToolTip": "Diary\\wwwroot\\css\\contacts.css",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-13T19:01:06.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T19:01:06.441Z"
             },
             {
               "$type": "Document",
