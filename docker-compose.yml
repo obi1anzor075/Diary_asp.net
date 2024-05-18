@@ -1,0 +1,43 @@
+networks:
+  diary-dev:
+    driver: bridge
+
+services:
+  app:
+    container_name: diary
+    build: .
+    depends_on:
+      - database
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__Sql=Server=database,1433;Database=CustomIdentityDB;User Id=sa;Password=Fast192837465;TrustServerCertificate=True
+    expose:
+      - "8080"
+    networks:
+      - diary-dev
+
+  database:
+    container_name: mssql
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      SA_PASSWORD: "Fast192837465"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    network:
+      - diary-dev
+    volumes:
+      - sqlserverdata:/var/opt/mssql
+
+  nginx:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - app
+    networks:
+      - diary-dev
+volumes:
+  sqlserverdata:
